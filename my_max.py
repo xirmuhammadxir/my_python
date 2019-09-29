@@ -1,5 +1,5 @@
-def maxm(a,b):
-    if a>b:
+﻿def maxm(a,b):
+    if a > b:
         print("Тут ",a," больше")
     else:
         print("Тут ",b," больше")
